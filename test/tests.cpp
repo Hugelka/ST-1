@@ -40,5 +40,5 @@ TEST(SumOfPrimesTest, LowSum) {
 }
 
 TEST(SumOfPrimesTest, SumBelowLargeNumber) {
-  EXPECT_EQ(sumPrime(200000), 2791995000);
+  EXPECT_EQ(sumPrime(200000), 1709600813);
 }
