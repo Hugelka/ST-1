@@ -1,3 +1,4 @@
+// Copyright 2024 Mironov I.
 
 #include <gtest/gtest.h>
 #include <cstdint>
